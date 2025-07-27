@@ -1,0 +1,4 @@
+.env
+/Downloads/*
+!/Downloads/Spot
+!/Downloads/Spot/spot
